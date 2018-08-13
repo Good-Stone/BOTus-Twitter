@@ -7,7 +7,7 @@
 * [Flask](http://flask.pocoo.org/)
 
 ### Prerequisites
-* [Docker Community Edition](https://www.docker.com/community-edition) and [Docker Compose](https://docs.docker.com/compose/)
+* [Docker Community Edition](https://docs.docker.com/install/) and [Docker Compose](https://docs.docker.com/compose/)
 
 ### Setting up the development environment
 ```sh
